@@ -1,4 +1,3 @@
-from unittest import result
 import sympy as sp
 from sympy import MutableDenseMatrix, Symbol, latex
 from linalgpy.core.solver import CoreSolver

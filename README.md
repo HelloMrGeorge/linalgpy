@@ -1,1 +1,1 @@
-This is a simple python package help you learning liear algbra.
+This is a simple python package that help you learn linear algbra.
