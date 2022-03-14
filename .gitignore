@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# george custom
+setup.cfg
+pyproject.toml
+test/
+dist/
+
